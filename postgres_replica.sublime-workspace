@@ -1,0 +1,254 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timestamptColumns"
+			],
+			[
+				"con",
+				"convertTimestampsStr"
+			],
+			[
+				"cur",
+				"currentColumns"
+			],
+			[
+				"curr",
+				"currentColumns"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ilnur/latoken/postgres_replica"
+	],
+	"file_history":
+	[
+		"/home/ilnur/latoken/web-wallet-front/src/services/websocket.js",
+		"/home/ilnur/latoken/web-wallet-front/package.json",
+		"/home/ilnur/latoken/web-wallet-front/.env",
+		"/home/ilnur/latoken/web-wallet-front/src/stores/stores.ts",
+		"/home/ilnur/latoken/web-wallet-front/src/constants/apiRouter.d.ts",
+		"/home/ilnur/latoken/web-wallet-front/src/constants/apiRoutes.js",
+		"/home/ilnur/latoken/web-wallet-front/src/components/Header/EstBalances.tsx",
+		"/home/ilnur/latoken/web-wallet-front/build/index.html",
+		"/home/ilnur/latoken/web-wallet-front/default.docker.conf",
+		"/home/ilnur/latoken/web-wallet-front/docker-compose.yml",
+		"/home/ilnur/latoken/web-wallet-front/Dockerfile",
+		"/home/ilnur/latoken/web-wallet-front/webpack/webpack.common.js",
+		"/home/ilnur/latoken/web-wallet-front/default.conf",
+		"/home/ilnur/latoken/web-wallet-front/Dockerfile.prod",
+		"/home/ilnur/latoken/web-wallet-front/public/index.html",
+		"/home/ilnur/latoken/exs/generate.js",
+		"/home/ilnur/Documents/dump_schema_only.sql",
+		"/home/ilnur/latoken/legacy-backend/sql/postgres/dev_schema.sql",
+		"/home/ilnur/latoken/exs/order.js",
+		"/home/ilnur/latoken/exs/table.column",
+		"/home/ilnur/latoken/exs/01.EthAddHashes.js",
+		"/home/ilnur/latoken/exs/04.referralLinks.js",
+		"/home/ilnur/latoken/exs/05.investors.js",
+		"/home/ilnur/latoken/exs/05.referralLinks.js",
+		"/home/ilnur/latoken/exs/02.Locks.js",
+		"/home/ilnur/latoken/exs/06.investors.js",
+		"/home/ilnur/latoken/exs/04.roles.js",
+		"/home/ilnur/latoken/exs/03.SequelizeMeta.js",
+		"/home/ilnur/latoken/exs/04.agreements.js",
+		"/home/ilnur/latoken/exs/05.apiKeys.js",
+		"/home/ilnur/latoken/exs/39.outputAgentLocks.js",
+		"/home/ilnur/latoken/exs/35.loginLogs.js",
+		"/home/ilnur/latoken/exs/30.kycLogs.js",
+		"/home/ilnur/latoken/exs/11.cryptoAddresses.js",
+		"/home/ilnur/latoken/exs/1.favoriteTradingPairs.js",
+		"/home/ilnur/latoken/exs/1.EthAddHashes.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/home/ilnur/latoken/web-wallet-front",
+			"/home/ilnur/latoken/web-wallet-front/src",
+			"/home/ilnur/latoken/web-wallet-front,-./build/*",
+			"/home/ilnur/latoken/web-wallet-front,-./build/",
+			"/home/ilnur/latoken/web-wallet-front,-build",
+			"/home/ilnur/latoken/web-wallet-front",
+			"/home/ilnur/latoken/web-wallet-front/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"WS_",
+			"^WS_",
+			"WS_",
+			"new WebSocket",
+			"wsUrl",
+			"new WebSocket",
+			"formatEstimatedValue",
+			"/currencies",
+			"\\",
+			"\\n",
+			"ether",
+			"convertorders",
+			"row.",
+			"',",
+			"CREATE TABLE \"",
+			" ",
+			"|\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n",
+			"",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ilnur/latoken/postgres_replica"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
